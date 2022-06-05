@@ -1,0 +1,13 @@
+.country {
+    background-color: #ffc0cb;
+    color: #2986cc;
+    border: #331313 2px solid;
+    border-radius: 20px;
+    margin: 12px;
+    padding: 20px;
+}
+
+.country img {
+    width: 300px;
+    height: 200px;
+}
